@@ -1,0 +1,2 @@
+# DATA ANALYTICS POTFOLIO
+Mi enfoque se centra en el análisis de datos utilizando herramientas como Python, BigQuery y MySQL para identificar oportunidades de crecimiento y Looker Studio o Tableau para visualizar la información importante. Además soy un analista QA altamente capacitado y recién graduado del bootcamp deGlobant, y poseo experiencia práctica en situaciones reales detrabajo, donde adquirí habilidades y conocimientos enelaboración, diseño y ejecución de Casos de Prueba.
